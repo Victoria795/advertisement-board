@@ -11,19 +11,19 @@ header {
   height: 52px;
   background-color: #1E293B; }
   header .header-block {
-    width: 100%;
-    height: 100%;
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    width: 100%;
+    height: 100%;
     gap: 24px;
     padding: 2px; }
     header .header-block__enter {
-      width: 74px;
-      height: 32px;
       display: flex;
       justify-content: center;
       align-items: center;
+      width: 74px;
+      height: 32px;
       padding: 8px 0px;
       gap: 8px;
       font: 500 14px/20px "Inter", "Arial", sans-serif;
@@ -36,11 +36,11 @@ header {
     header .header-block__enter:hover {
       box-shadow: 0px 0px 4px 0 #c0c5cc; }
     header .header-block__adv {
-      width: 179px;
-      height: 32px;
       display: flex;
       justify-content: center;
       align-items: center;
+      width: 179px;
+      height: 32px;
       padding: 6px 12px;
       gap: 4px;
       font: 500 14px/20px "Inter", "Arial", sans-serif;
@@ -54,22 +54,22 @@ header {
       background: #316ecf; }
 
 .adv-panel {
-  width: 100%;
-  height: 84px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  width: 100%;
+  height: 84px;
   border-bottom: 1px solid #E2E8F0; }
   .adv-panel__heading {
     margin-right: 18px;
     font: 700 30px/36px "Inter", "Arial", sans-serif;
     color: #1E293B; }
   .adv-panel__categories {
-    width: 160px;
-    height: 36px;
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 160px;
+    height: 36px;
     gap: 8px;
     margin-right: 8px;
     padding: 8px 12px;
@@ -91,12 +91,12 @@ header {
   .adv-panel__search-input:focus {
     box-shadow: 1px 1px 2px 0 #c0c5cc; }
   .adv-panel__search-btn {
-    width: 91px;
-    height: 36px;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    width: 91px;
+    height: 36px;
     padding: 8px 12px;
     gap: 8px;
     font: 500 14px/20px "Inter", "Arial", sans-serif;
@@ -109,10 +109,10 @@ header {
     background: #316ecf; }
 
 .adv-block {
-  width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
+  width: 100%;
   gap: 24px; }
   .adv-block__heading {
     width: 100%;

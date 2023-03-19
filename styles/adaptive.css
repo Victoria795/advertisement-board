@@ -120,7 +120,7 @@
     .adv-panel__search-input {
       width: 380px;
       height: 30px;
-      font-size: 8px;
+      font-size: 10px;
       line-height: 12px; }
     .adv-panel__search-btn {
       width: 81px;
@@ -194,7 +194,7 @@
     .adv-panel__search-input {
       width: 230px;
       height: 25px;
-      font-size: 8px;
+      font-size: 10px;
       line-height: 12px; }
     .adv-panel__search-btn {
       width: 41px;
@@ -227,10 +227,10 @@
       font-size: 10px;
       line-height: 16px; }
     .adv-block__card-address {
-      font-size: 4px;
+      font-size: 8px;
       line-height: 10px; }
     .adv-block__card-data {
-      font-size: 4px;
+      font-size: 8px;
       line-height: 10px; } }
 
 /*# sourceMappingURL=adaptive.css.map */
